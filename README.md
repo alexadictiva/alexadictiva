@@ -35,10 +35,7 @@
 
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexadictiva&show_icons=true&locale=en&layout=compact" alt="alexadictiva" /></p>
-
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexadictiva&show_icons=true&locale=en" alt="alexadictiva" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexadictiva&" alt="alexadictiva" /></p>
 </div>
 
 
