@@ -8,17 +8,14 @@
 <p align="left"> <a href="https://twitter.com/alexadictiva" target="blank"><img src="https://img.shields.io/twitter/follow/alexadictiva?logo=twitter&style=for-the-badge" alt="alexadictiva" /></a> </p>
 
 - 🔭 I’m currently working like **a Frontend Developer Senior**
-
+- 🚀 I am a student at Platzi
+- 🚀 I am a student at Udemy
+- I like anime (Bleach, JJK, KNY, Hunter x Hunter...)
 - 🧠 I’m currently learning **NodeJs, ReactJs, SQL**
-
 - 🤝 I’m looking for help with **NodeJs, REACT Native**
-
 - 👨‍💻 All of my projects are available at [https://github.com/alexadictiva](https://github.com/alexadictiva)
-
 - 💬 Ask me about **Figma, HTML, CSS, JavaScript, PHP, JQUERY**
-
 - 📫 How to reach me **alexadictiva@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/libiaaperezbdev1/](https://www.linkedin.com/in/libiaaperezbdev1/)
 
 <h3 align="left">Connect with me:</h3>
