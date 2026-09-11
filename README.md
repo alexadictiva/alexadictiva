@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/libiaaperezbdev1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:alexadictiva@gmail.com">
+  <a href="mailto:l.alexandradev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -25,8 +25,8 @@
 - 🗄️ Strengthening my full-stack skills with Node.js, TypeScript, SQL, PostgreSQL, SQLite and Supabase.
 - 🎓 Continuous learner through practical courses and personal projects.
 - 👩‍💻 Explore my projects at [github.com/alexadictiva](https://github.com/alexadictiva).
-- 📫 Reach me at **alexadictiva@gmail.com**.
-- 🎮 Anime fan: Bleach, Jujutsu Kaisen, Kimetsu no Yaiba and Hunter x Hunter.
+- 📫 Reach me at **l.alexandradev@gmail.com**.
+- 🎮 Anime fan: Bleach, Jujutsu Kaisen, Kimetsu no Yaiba, Hunter x Hunter, Dan Da Dan...
 
 ### Frontend
 
@@ -68,9 +68,6 @@
 <p align="left">
   <a href="https://codepen.io/alexadictiva" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40">
-  </a>
-  <a href="https://twitter.com/alexadictiva" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40">
   </a>
   <a href="https://linkedin.com/in/libiaaperezbdev1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
