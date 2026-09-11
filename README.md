@@ -1,50 +1,81 @@
-<h1 style="text-align: center;" align='center'> <img src="https://media.giphy.com/media/zCeHBk9WEzMG4V42JK/giphy.gif" width="50%"></h1>
-
-<h1 align="center">Halo 👋, I'm L. Alexandra Pérez B.</h1>
-<h3 align="center">A passionate frontend developer from Venezuela living in Argentina.</h3>
-
-
-
-<p align="left"> <a href="https://twitter.com/alexadictiva" target="blank"><img src="https://img.shields.io/twitter/follow/alexadictiva?logo=twitter&style=for-the-badge" alt="alexadictiva" /></a> </p>
-
-- 🔭 I’m currently working like **a Frontend Developer Senior**
-- 🚀 I am a student at Platzi
-- 🚀 I am a student at Udemy
-- I like anime (Bleach, JJK, KNY, Hunter x Hunter...)
-- 🧠 I’m currently learning **NodeJs, ReactJs, SQL**
-- 🤝 I’m looking for help with **NodeJs, REACT Native**
-- 👨‍💻 All of my projects are available at [https://github.com/alexadictiva](https://github.com/alexadictiva)
-- 💬 Ask me about **Figma, HTML, CSS, JavaScript, PHP, JQUERY**
-- 📫 How to reach me **alexadictiva@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/libiaaperezbdev1/](https://www.linkedin.com/in/libiaaperezbdev1/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/alexadictiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alexadictiva" height="30" width="40" /></a>
-  <a href="https://twitter.com/alexadictiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexadictiva" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/libiaaperezbdev1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="libiaaperezbdev1" height="30" width="40" /></a>
-  <a href="https://instagram.com/alexadictiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexadictiva" height="30" width="40" /></a>
-  <a href="https://discord.gg/alexadictiva#2783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alexadictiva#2783" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/zCeHBk9WEzMG4V42JK/giphy.gif" width="50%" alt="Frontend development animation">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">Hi 👋, I'm L. Alexandra Pérez B.</h1>
+<h3 align="center">Frontend Developer from Venezuela, based in Argentina</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/libiaaperezbdev1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:alexadictiva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+### About me
+
+- 💻 Frontend Developer with 4+ years of experience building and maintaining web interfaces for a production SaaS e-commerce platform.
+- ⚛️ Professional experience with JavaScript, React, HTML, CSS/SCSS, Tailwind CSS, Bootstrap and jQuery.
+- 🔄 Experienced in progressively modernizing legacy interfaces into reusable React components without disrupting production workflows.
+- 🔌 Experienced in REST API integration, state handling, validations, debugging and functional testing.
+- 🧩 Used to collaborating with Backend, QA and Product teams in agile environments.
+- ♿ Focused on responsive design, maintainability, accessibility, performance and cross-browser compatibility.
+- 🗄️ Strengthening my full-stack skills with Node.js, TypeScript, SQL, PostgreSQL, SQLite and Supabase.
+- 🎓 Continuous learner through practical courses and personal projects.
+- 👩‍💻 Explore my projects at [github.com/alexadictiva](https://github.com/alexadictiva).
+- 📫 Reach me at **alexadictiva@gmail.com**.
+- 🎮 Anime fan: Bleach, Jujutsu Kaisen, Kimetsu no Yaiba and Hunter x Hunter.
+
+### Frontend
+
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" title="Sass" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery" width="42" height="42">
+</p>
+
+### Backend and databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" title="CodeIgniter" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="42" height="42">
+</p>
+
+### Tools and design
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="42" height="42">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="42" height="42">
+</p>
+
+### Connect with me
+
+<p align="left">
+  <a href="https://codepen.io/alexadictiva" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40">
   </a>
-  <a href="https://www.figma.com/" target="_blank" style="text-decoration:none">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <a href="https://twitter.com/alexadictiva" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40">
   </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration:none">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <a href="https://linkedin.com/in/libiaaperezbdev1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" style="text-decoration:none">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://instagram.com/alexadictiva" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
   </a>
 </p>
