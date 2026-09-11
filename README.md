@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/zCeHBk9WEzMG4V42JK/giphy.gif" width="50%" alt="Frontend development animation">
-</p>
-
 <h1 align="center">Hi 👋, I'm L. Alexandra Pérez B.</h1>
 <h3 align="center">Frontend Developer from Venezuela, based in Argentina</h3>
 
